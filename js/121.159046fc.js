@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunklove"]=self["webpackChunklove"]||[]).push([[121],{8121:function(e,n,l){l.r(n),l.d(n,{default:function(){return o}});var u=function(){var e=this,n=e._self._c;return n("div")},t=[],c={name:"RecycleInfo"},r=c,f=l(1001),s=(0,f.Z)(r,u,t,!1,null,null,null),o=s.exports}}]);

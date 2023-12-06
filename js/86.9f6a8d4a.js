@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunklove"]=self["webpackChunklove"]||[]).push([[86],{8086:function(e,n,u){u.r(n),u.d(n,{default:function(){return o}});var l=function(){var e=this,n=e._self._c;return n("div")},r=[],t={name:"PubRecord"},c=t,s=u(1001),f=(0,s.Z)(c,l,r,!1,null,null,null),o=f.exports}}]);

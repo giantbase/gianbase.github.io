@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunklove"]=self["webpackChunklove"]||[]).push([[879],{9879:function(n,u,e){e.r(u),e.d(u,{default:function(){return i}});var l=function(){var n=this,u=n._self._c;return u("div")},t=[],r={name:"PubJoin"},s=r,c=e(1001),f=(0,c.Z)(s,l,t,!1,null,null,null),i=f.exports}}]);
